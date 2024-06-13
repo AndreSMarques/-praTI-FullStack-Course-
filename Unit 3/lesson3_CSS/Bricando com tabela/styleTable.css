@@ -1,0 +1,20 @@
+body{
+    background-color: brown;
+}
+
+table {
+   background-color: burlywood;
+   border-collapse: collapse;
+   border: solid 3px black;
+  
+}
+
+th,
+td {
+    border: 1px solid black;
+    padding: 8px;
+}
+
+h1 {
+    color: bisque;
+}

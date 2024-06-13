@@ -1,0 +1,40 @@
+.listaNaoordenada {
+    list-style: none;
+    border: solid 3px yellow;
+    
+}
+
+.listaNaoordenada li img {
+    border-radius: 10px;
+}
+
+nav#menu {
+    border: 3px solid blue;
+    display: block;
+}
+
+nav#menu ul{
+    list-style: none;
+}
+
+nav#menu li {
+    display: inline-block;
+    background-color: blueviolet;
+    color: bisque;
+    padding: 10px;
+}
+
+dl {
+    background-color: rgb(128, 47, 128);
+}
+
+dt {
+    color: rgb(40, 22, 58);
+    font-size: 30px;
+    padding: 16px;
+}
+
+dd {
+    padding: 30px;
+    color: bisque;
+}
