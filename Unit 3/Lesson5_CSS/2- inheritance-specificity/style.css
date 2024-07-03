@@ -1,0 +1,33 @@
+*{
+    color: blue;
+}
+
+h1 {
+    color: red;
+}
+
+.classDiv01 {
+    color: yellow;
+}
+
+
+
+/* Seletores iguais o ultimo é aplicado 
+#div01 p{
+    color: red
+}
+
+#div p {
+    color: blue;
+} */
+
+/* 
+    seletores unirvesais
+    tipo de seletores
+    classes seletores
+    atributos seletores
+    pseudo classe
+    seletores id
+    estilo inline
+
+*/

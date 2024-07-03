@@ -1,0 +1,39 @@
+/* * {
+    
+} */
+
+h2 {
+    color: red;
+}
+
+.classe01 {
+    border: 2px solid;
+}
+
+p.classe01 {
+    background-color: orange;
+}
+
+#conteudo {
+    border: 2px solid green;
+}
+
+/* Pega so o filho direto li -> a */
+li > a {
+    text-decoration: none;
+}
+
+/* Pega todos elementos da div que tem a */
+div a {
+    text-decoration: none;
+}
+
+/* Vai pegar qualquer elemento depoois do h2    seletor de irmão adjacente  se tiver uma estrutura no meio não funciona*/
+h2+P {
+    background-color: aqua;
+}
+
+/* Seletor de irmão geral mesmo que tem estrutura depois ele pega */
+h2~p {
+
+}

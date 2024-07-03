@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.menu{
+    text-decoration: none;
+    background-color:antiquewhite;
+    border: 2px solid burlywood;
+    list-style: none;
+    float: left;
+    width: 150PX;
+    height: 950PX;
+    text-align: center;
+    padding-top: 48px;
+    line-height: 36px;
+    font-weight: bold;
+}
+
+.menu h3 {
+    color: chocolate;
+}
+
+.menu > li{
+    color: tan;
+}
+
+.menu li:hover{
+    background-color: beige;
+}
+
+
+.main{
+    float: left;
+    width: 950px;
+}
+
+
